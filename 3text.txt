@@ -7,4 +7,4 @@ git rm имяФайла = удалить файл или файлы
 git add = добавить
 git status
 git commit 
-git pusпшh testRepo имяВетки(мастер)
+git push testRepo имяВетки(мастер)
