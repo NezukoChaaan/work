@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body,html{
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    text-decoration:none;
+}
+
+
+.fio {
+    background-color:rgb(245, 220, 79);
+    width: 100%;
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+}
+
+.fio p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    word-spacing: 1px;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    background-color:rgb(252, 249, 237);
+    padding: 15px;
+    text-align: center;
+}
+
+.content p {
+    margin: 15px 0px 0px 0px;
+}
+
+.content h1 {
+    margin: 20px 0px 0px 0px;
+}
+
